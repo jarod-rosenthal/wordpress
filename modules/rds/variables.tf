@@ -1,0 +1,10 @@
+variable "vpc_id" {}
+variable "private_subnets" {}
+variable "db_name" {}
+variable "db_user" {}
+variable "db_password" {}
+variable "allocated_storage" {}
+variable "instance_class" {}
+variable "engine" {}
+variable "engine_version" {}
+variable "ec2_security_group" {}
